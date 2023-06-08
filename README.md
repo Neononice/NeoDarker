@@ -1,2 +1,2 @@
 # NeoDarker
-Discord Theme
+BetterDiscord Theme
